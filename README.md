@@ -1,4 +1,4 @@
-11# NFT - Ticketing System
+# NFT - Ticketing System
 
 
 ![Untitled design](https://github.com/user-attachments/assets/a30bdb92-b62e-48c2-9935-5b1735cf4456)
